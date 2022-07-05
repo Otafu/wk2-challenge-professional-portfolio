@@ -85,7 +85,7 @@
   }
 
   .hero img {
-      height: 600px;
+      height: 500px;
   }
 
   .hero .quote {
@@ -94,7 +94,7 @@
       justify-content: end;
       text-align: right;
       color: lightgray;
-      text-shadow: 3px 2px #000000;
+      text-shadow: 2px 2px #000000;
   }
 
   .hero .quote #quote-text {
