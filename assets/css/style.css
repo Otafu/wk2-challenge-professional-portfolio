@@ -171,7 +171,7 @@
         text-decoration: none;
         background-size: cover;
         background-position: center;
-        opacity: 0.5;
+        opacity: 1.5;
     }
 
     .project:hover {
