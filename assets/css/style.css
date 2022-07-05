@@ -85,7 +85,7 @@
   }
 
   .hero img {
-      height: 500px;
+      height: 600px;
   }
 
   .hero .quote {
@@ -131,7 +131,7 @@
     font-size: 20px;
     padding: 0 30px;
     line-height: 1.6;
-    width: 90%;
+    width: 80%;
   }
   /* About Me Section Styling End */
 
