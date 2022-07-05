@@ -49,7 +49,7 @@
   header nav ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     list-style: none;
   }
 
