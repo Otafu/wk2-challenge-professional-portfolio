@@ -67,7 +67,7 @@
   header nav ul li a:hover {
     background: var(--pop);
     color: var(--primary);
-    border-radius: 16px;
+    border-radius: 15px;
   }
 
   /* Header Styling End */
